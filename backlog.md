@@ -6,10 +6,11 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
+## Edwar archivo[10/11/2025]
+### 1.0.0
+### Edwar Daniel
+- edwar
 
-<<<<<<< HEAD
-=======
-=======
 # Este archivo es de cesar
 ### 1.0.0
  - Ayuda porfavor
@@ -19,7 +20,6 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Carlos Mazariegos
 - Base de Datos
 
->>>>>>> c72a92ca64d5eb41c2242147626ea306ec86464d
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
 #### Rodrigo Mijangos
