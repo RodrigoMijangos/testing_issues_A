@@ -7,26 +7,17 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Nombre del desarrolador
  - Descripción del cambio.
 
-<<<<<<< HEAD
- 
- ## ID o nombre de tarea [21/11/2025]
+## ID o nombre de tarea [21/11/2025]
 ### 1.2.0
 #### Luis Perez
  - Añadida la funcion de playlist dentro del reproductor
-=======
-  # Nuevo commit  [10/11/2025]
- ### 1.1.0
- ### Jorge Daniel
- -Hola mundo
->>>>>>> 758a4db6d939b2ac2a3f4f2021d9019064e75f00
+
+## Nuevo commit  [10/11/2025]
+### 1.1.0
+### Jorge Daniel
+ - Hola mundo
 
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
-
-
-## INICIO DE BITACORA [10/11/2025]
-### 1.0.0
-#### Nadia Guerra
-- Cambio a la bitacora
