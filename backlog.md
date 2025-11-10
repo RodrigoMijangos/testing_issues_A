@@ -5,6 +5,10 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## Base de Datos
+### 1.4.0
+#### Luis Perez
+- Apartado de playlist
 
 ## Practica [10/1172025]
 ### 1.3.0
