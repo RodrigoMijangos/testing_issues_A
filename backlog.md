@@ -22,9 +22,4 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
  ### Edwar Daniel 
 =======
 #### Rodrigo Mijangos
- - Cambio para iniciar la bitácora.
-<<<<<<< HEAD
->>>>>>> 42978d38b131a04ef1a5bb6780fc6d7d3dede4fc
-=======
 
->>>>>>> 758a4db6d939b2ac2a3f4f2021d9019064e75f00
