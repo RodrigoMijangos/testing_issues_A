@@ -7,10 +7,18 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Nombre del desarrolador
  - Descripción del cambio.
 
-## Inicio de bitacora [10/11/2025] 
- ### 1.2.0
- #### Axel Cuc
- -Cambios a la bitacora
+<<<<<<< HEAD
+ 
+ ## ID o nombre de tarea [21/11/2025]
+### 1.2.0
+#### Luis Perez
+ - Añadida la funcion de playlist dentro del reproductor
+=======
+  # Nuevo commit  [10/11/2025]
+ ### 1.1.0
+ ### Jorge Daniel
+ -Hola mundo
+>>>>>>> 758a4db6d939b2ac2a3f4f2021d9019064e75f00
 
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
