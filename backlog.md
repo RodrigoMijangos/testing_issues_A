@@ -8,7 +8,7 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
  - Descripción del cambio.
 
 ## HEADER DE BITACORA [10/11/2025]
-### 1.0.1
+### 1.1.0
 #### Angel Chame
  - Header para la bitacora.
 
