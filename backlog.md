@@ -17,3 +17,8 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
+
+## INICIO DE BITACORA [10/11/2025]
+### 1.0.0
+#### Nadia Guerra
+- Cambio a la bitacora
