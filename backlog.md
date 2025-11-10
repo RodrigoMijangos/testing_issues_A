@@ -20,6 +20,7 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
  ## INICIO DE BITACORA [10/11/2025]
  ### 1.0.0 
  ### Edwar Daniel 
+ - no se sube / por fin 
 =======
 #### Rodrigo Mijangos
 
