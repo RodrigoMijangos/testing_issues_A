@@ -36,6 +36,29 @@
 ### 1.0.0
  - Ayuda porfavor
 
+## Commit [10/11/2025]
+### 1.4.0
+#### Nadia Guerra
+ - Cambio 
+
+## INICIO DE BITACORA [10/11/2025]
+### 1.0.0
+#### Rodrigo Mijangos
+ - Cambio para iniciar la bitácora.
+
+
+ ## ID o nombre de tarea [21/11/2025]
+### 1.2.0
+#### Luis Perez
+ - Añadida la funcion de playlist dentro del reproductor
+
+
+  # Nuevo commit  [10/11/2025]
+ ### 1.1.0
+ ### Jorge Daniel
+ -Hola mundo
+
+
 ## Base de Datos
 ### 1.1.0
 #### Carlos Mazariegos
@@ -46,6 +69,11 @@
 #### Rodrigo Mijangos
 <<<<<<< HEAD
  - Cambio para iniciar la bitácora.
+<<<<<<< HEAD
 =======
  - Cambio para iniciar la bitácora.
 >>>>>>> bf223b710910e630499b93da09a233a27ce82fac
+=======
+
+
+>>>>>>> b63ad01a46362ccadf82e94e702fc9c4a6430363
