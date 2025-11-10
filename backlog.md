@@ -6,6 +6,11 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 ### Version del cambio
 #### Nombre del desarrolador
  - Descripción del cambio.
+  
+ ## ID o nombre de tarea [21/11/2025]
+### 1.3.0
+#### Jesel Moreno
+ - Añadida la funcion de eliminar cuenta
 
 <<<<<<< HEAD
  
