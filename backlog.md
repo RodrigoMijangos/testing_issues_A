@@ -8,17 +8,30 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
  - Descripción del cambio.
 
 
-# Este archivo es de cesar
- - Una practica mas xd.
+## ID o nombre de tarea [21/11/2025]
+### 1.3.0
+#### Cesar Toledo
+ - Añadi este texto
 
+<<<<<<< HEAD
+ 
+ ## ID o nombre de tarea [21/11/2025]
+### 1.2.0
+#### Luis Perez
+ - Añadida la funcion de playlist dentro del reproductor
+=======
   # Nuevo commit  [10/11/2025]
  ### 1.1.0
  ### Jorge Daniel
- - Hola mundo
-
+ -Hola mundo
 
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
+
+## INICIO DE BITACORA [10/11/2025]
+### 1.0.0
+#### Nadia Guerra
+- Cambio a la bitacora
