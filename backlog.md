@@ -7,13 +7,11 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Nombre del desarrolador
  - Descripción del cambio.
   
- ## ID o nombre de tarea [21/11/2025]
+ ##Implementacion de labores [21/11/2025]
 ### 1.3.0
 #### Jesel Moreno
  - Añadida la funcion de eliminar cuenta
 
-<<<<<<< HEAD
-<<<<<<< HEAD
  ## Participación
  ### 1.5.0
  #### Carlos Andrés Mazariegos Laguna
@@ -22,8 +20,6 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
  ### 1.2.0
  #### Axel Cuc
  -Cambios a la bitacora
->>>>>>> 5d77c65a9be92f91ef8a02dc31e4346610d9e1f8
-=======
  
  ## ID o nombre de tarea [21/11/2025]
 ### 1.2.0
@@ -34,8 +30,7 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
  ### 1.1.0
  ### Jorge Daniel
  -Hola mundo
->>>>>>> 758a4db6d939b2ac2a3f4f2021d9019064e75f00
->>>>>>> 60d56e02b5ce71638d4469f559ac6b3ca594cac3
+
 
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
