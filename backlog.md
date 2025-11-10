@@ -6,6 +6,11 @@
  - Descripción del cambio.
 
 ## Base de Datos
+### 1.5.0
+#### Angel Chame
+- Cambios new
+
+## Base de Datos
 ### 1.4.0
 #### Luis Perez
 - Apartado de playlist
