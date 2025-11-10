@@ -1,15 +1,11 @@
 # BITACORA DE CAMBIOS
 
-<<<<<<< HEAD
+
 
 
 #### Rodrigo Mijango
  - Cambio para iniciar la bitácora.
 
-
-=======
-=======
->>>>>>> bf223b710910e630499b93da09a233a27ce82fac
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
@@ -21,7 +17,16 @@
 - edwar
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+## INICIO DE BITACORA [10/11/2025]
+### 1.7.0
+#### Cesar Tova
+ - Ayuda porfavor
+
+
+>>>>>>> 3a4ded883c49049f536a3562234c14ceb3765ac5
 ## Base de Datos [11/1172025]
 ### 1.4.0
 #### Luis Perez
