@@ -26,7 +26,12 @@
 # Este archivo es de cesar
 ### 1.0.0
  - Ayuda porfavor
-=======
+
+# Este archivo es de kiki
+### 1.2.0
+ - Me voy a suicidar 
+ 
+
 ## Base de Datos
 ### 1.1.0
 #### Carlos Mazariegos
