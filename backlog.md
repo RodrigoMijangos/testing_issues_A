@@ -5,12 +5,13 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
-## Base de Datos
+## Base de Datos [11/1172025]
 ### 1.5.0
 #### Angel Chame
 - Cambios new
 
 ## Base de Datos
+## Base de Datos [11/1172025]
 ### 1.4.0
 #### Luis Perez
 - Apartado de playlist
