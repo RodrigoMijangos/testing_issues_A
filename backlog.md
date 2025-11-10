@@ -7,6 +7,10 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Nombre del desarrolador
  - Descripción del cambio.
 
+ ## Participación
+ ### 1.5.0
+ #### Carlos Andrés Mazariegos Laguna
+
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
 <<<<<<< HEAD
