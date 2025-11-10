@@ -1,7 +1,17 @@
+<<<<<<< HEAD
+## Practica [10/1172025]
+### 1.3.0
+### Vanessa Jiménez
+=======
 # BITACORA DE CAMBIOS
 
-Para realizar entradas en este documento se debe seguir el siguiente formato:
 
+
+#### Rodrigo Mijango
+ - Cambio para iniciar la bitácora.
+
+
+=======
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
