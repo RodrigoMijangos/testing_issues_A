@@ -16,6 +16,7 @@
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
+ 
 ## Edwar archivo[10/11/2025]
 ### 1.0.0
 ### Edwar Daniel
