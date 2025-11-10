@@ -9,9 +9,12 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+
  ## Participación
  ### 1.5.0
  #### Carlos Andrés Mazariegos Laguna
+ -Hola racita, se que el curso de kotlin un chingo, entonces les comparto este repo con la soluciones
+
 =======
 ## Inicio de bitacora [10/11/2025] 
  ### 1.2.0
