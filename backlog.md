@@ -7,10 +7,11 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 #### Nombre del desarrolador
  - Descripción del cambio.
 
-# Este archivo es de cesar
-### 1.0.0
+## INICIO DE BITACORA [10/11/2025]
+### 1.7.0
+#### Cesar Tova
  - Ayuda porfavor
-=======
+
 ## Base de Datos
 ### 1.1.0
 #### Carlos Mazariegos
