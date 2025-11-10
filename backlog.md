@@ -1,11 +1,22 @@
 # BITACORA DE CAMBIOS
 
-Para realizar entradas en este documento se debe seguir el siguiente formato:
-
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
-#### Nombre del desarrolador
+#### Nombre del desarrolador 
  - Descripción del cambio.
+
+## Base de Datos [11/1172025]
+### 1.4.0
+#### Luis Perez
+- Apartado de playlist
+
+## Practica [10/1172025]
+### 1.3.0
+### Vanessa Jiménez
+
+# Este archivo es de cesar
+### 1.0.0
+ - Ayuda porfavor
 
 ## Commit [10/11/2025]
 ### 1.4.0
@@ -39,4 +50,5 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
+
 
