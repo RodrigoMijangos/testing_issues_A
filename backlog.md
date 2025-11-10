@@ -11,4 +11,3 @@ Para realizar entradas en este documento se debe seguir el siguiente formato:
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
-
