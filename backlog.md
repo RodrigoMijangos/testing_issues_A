@@ -16,8 +16,6 @@
 ### Edwar Daniel
 - edwar
 
-## INICIO DE BITACORA [100/11/2025]
-###
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.7.0
 #### Cesar Tova
@@ -40,7 +38,6 @@
 #### Luis Perez
 - Apartado de playlist
 
->>>>>>> 1705c94f546b8179b8d7a6f519df1000c87d98f9
 ## Practica [10/1172025]
 ### 1.3.0
 ### Vanessa Jiménez
