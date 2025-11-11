@@ -10,6 +10,10 @@
 #### Cesar Tova
  - Ayuda porfavor
 
+## Estructura back
+### 1.1.0
+#### Rudi Martínez
+- Base de Datos
 
 ## Base de Datos [11/1172025]
 ### 1.5.0
@@ -62,9 +66,15 @@
 #### Carlos Mazariegos
 - Base de Datos
 
+## Base de Datos
+### 1.1.0
+#### Fernando Mora
+- Base de Datos
+
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
 
+>>>>>>> dc415ce1545c4f14ff5b4d4b14f41f1a0b2a6639
