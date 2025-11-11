@@ -16,22 +16,31 @@
 ### Edwar Daniel
 - edwar
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
+## INICIO DE BITACORA [100/11/2025]
+###
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.7.0
 #### Cesar Tova
  - Ayuda porfavor
 
+## Estructura back
+### 1.1.0
+#### Rudi Martínez
+- Base de Datos
 
 >>>>>>> 3a4ded883c49049f536a3562234c14ceb3765ac5
+## Base de Datos [11/1172025]
+### 1.5.0
+#### Angel Chame
+- Cambios new
+
+## Base de Datos
 ## Base de Datos [11/1172025]
 ### 1.4.0
 #### Luis Perez
 - Apartado de playlist
 
+>>>>>>> 1705c94f546b8179b8d7a6f519df1000c87d98f9
 ## Practica [10/1172025]
 ### 1.3.0
 ### Vanessa Jiménez
@@ -41,6 +50,10 @@
 ### 1.0.0
  - Ayuda porfavor
 
+# Este archivo es de kiki
+### 1.2.0
+ - Me voy a suicidar 
+ 
 ## Commit [10/11/2025]
 ### 1.4.0
 #### Nadia Guerra
@@ -69,6 +82,11 @@
 #### Carlos Mazariegos
 - Base de Datos
 
+## Base de Datos
+### 1.1.0
+#### Fernando Mora
+- Base de Datos
+
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
 #### Rodrigo Mijangos
@@ -81,4 +99,8 @@
 =======
 
 
+<<<<<<< HEAD
 >>>>>>> b63ad01a46362ccadf82e94e702fc9c4a6430363
+=======
+>>>>>>> dc415ce1545c4f14ff5b4d4b14f41f1a0b2a6639
+>>>>>>> c7a0fc9e31a6522c5b85418e1ce01bf101827a83
