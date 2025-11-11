@@ -1,0 +1,14 @@
+name: siempre listo
+
+on:
+    push:
+        branches:
+            - main
+            - 'trabajo/**'
+
+jobs:
+    always-ready:
+        runs-on: ubuntu-latest
+        steps:
+            - name: this step always pass
+              run: echo "Este workflow siempre se ejecuta bien"

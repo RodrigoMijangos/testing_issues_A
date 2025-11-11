@@ -1,0 +1,14 @@
+name: para molestar
+
+on:
+    push:
+        branches:
+            - main
+            - 'trabajo/**'
+
+jobs:
+    fail-job:
+        runs-on: ubuntu-latest
+        steps:
+            - name: this step will fall
+              run: exit 1
